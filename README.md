@@ -39,8 +39,8 @@ A professional AI-powered writing assistant that helps users generate emails, so
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-writing-assistant.git
-   cd ai-writing-assistant
+   git clone https://github.com/Ahmadh24/Ai-Writing-Assistant.git
+   cd Ai-Writing-Assistant
    ```
 
 2. **Install dependencies**
