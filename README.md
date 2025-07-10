@@ -10,7 +10,7 @@ A professional AI-powered writing assistant that helps users generate emails, so
 
 **Try it now!** Experience the AI Writing Assistant in action:
 
-🌐 **[Live Demo - Coming Soon]** *(Will be updated after Render deployment)*
+🌐 **[Live Demo: AI Writing Assistant](https://ai-writing-assistant-tt9k.onrender.com/)**
 
 *This project demonstrates real AI integration, full-stack development, and production deployment - perfect for showcasing your skills to potential employers!*
 
@@ -33,7 +33,7 @@ A professional AI-powered writing assistant that helps users generate emails, so
 - **Styling**: Tailwind CSS
 - **AI**: OpenAI GPT-3.5-turbo API
 - **Icons**: Font Awesome
-- **Deployment**: Ready for Vercel, Railway, Render, or Heroku
+- **Deployment**: Render (Production)
 
 ## 📦 Installation
 
