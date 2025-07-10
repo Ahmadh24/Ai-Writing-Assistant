@@ -8,11 +8,11 @@ A professional AI-powered writing assistant that helps users generate emails, so
 
 ## 🚀 Live Demo
 
-**Perfect for your resume!** Deploy this to showcase your AI integration skills:
+**Try it now!** Experience the AI Writing Assistant in action:
 
-- **Vercel**: [Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/ai-writing-assistant)
-- **Railway**: [Deploy to Railway](https://railway.app/new/template)
-- **Render**: [Deploy to Render](https://render.com/docs/deploy-create-react-app)
+🌐 **[Live Demo - Coming Soon]** *(Will be updated after Render deployment)*
+
+*This project demonstrates real AI integration, full-stack development, and production deployment - perfect for showcasing your skills to potential employers!*
 
 ## ✨ Features
 
@@ -39,7 +39,7 @@ A professional AI-powered writing assistant that helps users generate emails, so
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-writing-assistant.git
+   git clone https://github.com/YOUR_USERNAME/ai-writing-assistant.git
    cd ai-writing-assistant
    ```
 
@@ -80,22 +80,23 @@ The application will be available at `http://localhost:3000`
 
 ## 🌐 Deployment
 
-### Option 1: Vercel (Recommended)
+### Option 1: Render (Recommended)
+1. Fork this repository
+2. Connect your GitHub account to Render
+3. Create a new Web Service
+4. Add environment variable: `OPENAI_API_KEY`
+5. Deploy!
+
+### Option 2: Vercel
 1. Fork this repository
 2. Connect your GitHub account to Vercel
 3. Import the repository
 4. Add environment variable: `OPENAI_API_KEY`
 5. Deploy!
 
-### Option 2: Railway
+### Option 3: Railway
 1. Connect your GitHub account to Railway
 2. Create a new project from GitHub
-3. Add environment variable: `OPENAI_API_KEY`
-4. Deploy!
-
-### Option 3: Render
-1. Connect your GitHub account to Render
-2. Create a new Web Service
 3. Add environment variable: `OPENAI_API_KEY`
 4. Deploy!
 
